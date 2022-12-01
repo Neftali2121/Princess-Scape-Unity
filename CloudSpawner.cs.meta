@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 94472fa3c53702642b6dfd41a3ef1ebc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BigCloud: {fileID: 1107606081783155868, guid: 6bf6de5bef8bc4a4eb8b06fc44177fc8, type: 3}
+  - MiniCloud: {fileID: 2096830512034030792, guid: 319353b848d09514eb40a8cbd9c65299, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
